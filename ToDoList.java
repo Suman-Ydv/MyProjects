@@ -99,6 +99,6 @@ public class ToDoList{
                     System.out.println("Invalid choice. Enter a valid choice: ");
                     break;
             } // end switch
-        } // end while5
+        } // end while
     } // end main
 } // end class
